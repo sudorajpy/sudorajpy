@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Flutter**
 
 - ⚡ Fun fact **I think I am Funny**
 
