@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudorajpy&label=Profile%20views&color=0e75b6&style=flat" alt="sudorajpy" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning *Flutter*
 
 - 💬 Ask me about **Flutter**
 
